@@ -11,6 +11,7 @@ First, I planned the structure of the card by visualizing what elements it would
  The challenge I faced while making this project was getting the text and buttons to align properly within the card. To solve this, I used padding , align-item , justify-content , margin. Ensuring the card looked good on various screen sizes, so I added media queries in CSS to fix this.
  
  About myself :--
-  I'm a first year computer science engineering student at Galgotia's University with a passion for technology and problem-solving.  I've developed a solid foundation in HTML and CSS and am currently diving into 
-  Data Structure and Algorithms while expanding my 
-  skill in c++.  I am also exploring generative AI , which I find really exciting because of its ability to create new ideas and solution.Excited about applying my knowledge to real-world challenges.
+ My name is sana perween and i'm first year computer science engineering student at Galgotia's University with a passion for technology and problem-solving.  I've learned  HTML and CSS ,i have also done 3-4 projects in web-dev using HTML and CSS .I'am currently diving into  Data Structure and Algorithms with c++. i have solved 20+ questions on both Leetcode and GeeksforGreeks(GFG)
+ I am also exploring generative AI , which I find really exciting because of its ability to create new ideas and solution.Excited about applying my knowledge to real-world challenges.
+
+ 
